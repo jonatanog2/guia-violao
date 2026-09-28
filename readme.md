@@ -33,9 +33,7 @@ guia-violao/
 
 O site foi publicado utilizando o GitHub Pages.
 
-Link do site:
-
-A SER PREENCHIDO APÓS A PUBLICAÇÃO
+https://jonatanog2.github.io/guia-violao/
 
 Autor
 jonatan victor saccon 
